@@ -1,5 +1,4 @@
 import React from 'react';
-// import './Todo.css'; // Make sure the path matches your CSS file location
 
 interface TodoProps {
   task: string;

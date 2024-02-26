@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { createPortal } from 'react-dom';
 
-const modalRoot = document.getElementById('modal'); // Ensure this matches your actual modal root ID
+const modalRoot = document.getElementById('modal'); 
 
 export default function Modal() {
   // Step 1: Handle button click to change state

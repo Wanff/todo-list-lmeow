@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import Todo from './components/Todo'; // Assuming Todo is in the same directory
-import Modal from './components/Modal'; // Assuming Modal is in the same directory
+import Todo from './components/Todo'; 
+import Modal from './components/Modal'; 
 
 interface TodoItem {
   id: number;
